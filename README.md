@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-doel&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-doel)](https://github.com/arjun-doel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-doel&langs_count=8&theme=dark&show)](https://github.com/arjun-doel/github-readme-stats)
+
